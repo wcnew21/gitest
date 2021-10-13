@@ -5,7 +5,7 @@ function bar(a,b)
     return c+d
 end
 
-function foo()
+function food()
     println("STEP 1")
 
     println("STEP 2")
@@ -19,8 +19,5 @@ function foo()
     println("STEP 4")
 end
 
-foo()
+food()
 
-
-
-    
